@@ -4,10 +4,15 @@
       "Bash(npm init:*)",
       "Bash(npm install:*)",
       "Bash(npm run:*)",
-      "Bash(npx shadcn@latest init -d)"
+      "Bash(npx shadcn@latest init -d)",
+      "Bash(npx shadcn@latest add sheet -y)",
+      "Bash(npx shadcn@latest add input label card dialog dropdown-menu sonner skeleton avatar badge separator tooltip tabs select switch checkbox textarea form table -y)",
+      "Bash(npx shadcn@latest add form -y)",
+      "Bash(npm list:*)"
     ],
     "additionalDirectories": [
-      "e:\\code\\WebBase"
+      "e:\\code\\WebBase",
+      "e:\\code\\WebBase\\src\\app\\api\\auth"
     ]
   }
 }

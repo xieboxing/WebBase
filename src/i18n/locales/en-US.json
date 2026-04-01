@@ -1,0 +1,56 @@
+{
+  "common": {
+    "siteName": "WebBase",
+    "welcome": "Welcome to WebBase",
+    "description": "A modern web application built with Next.js",
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register",
+    "dashboard": "Dashboard"
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Login",
+      "loggingIn": "Logging in...",
+      "noAccount": "Don't have an account?",
+      "register": "Register",
+      "invalidCredentials": "Invalid email or password",
+      "error": "Login failed, please try again later"
+    },
+    "register": {
+      "title": "Register",
+      "name": "Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "submit": "Register",
+      "registering": "Registering...",
+      "hasAccount": "Already have an account?",
+      "login": "Login",
+      "error": "Registration failed, email may already be in use"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome to the dashboard. You can manage your account and content here."
+  },
+  "footer": {
+    "navigation": "Navigation",
+    "copyright": "All rights reserved"
+  },
+  "validation": {
+    "emailInvalid": "Please enter a valid email address",
+    "passwordMin": "Password must be at least {min} characters",
+    "nameMin": "Name must be at least {min} characters",
+    "passwordMismatch": "Passwords do not match"
+  }
+}

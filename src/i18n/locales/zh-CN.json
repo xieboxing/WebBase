@@ -1,0 +1,56 @@
+{
+  "common": {
+    "siteName": "WebBase",
+    "welcome": "欢迎来到 WebBase",
+    "description": "一个使用 Next.js 构建的现代化 Web 应用",
+    "learnMore": "了解更多",
+    "contactUs": "联系我们"
+  },
+  "nav": {
+    "home": "首页",
+    "about": "关于",
+    "contact": "联系",
+    "login": "登录",
+    "register": "注册",
+    "dashboard": "控制台"
+  },
+  "auth": {
+    "login": {
+      "title": "登录",
+      "email": "邮箱",
+      "password": "密码",
+      "submit": "登录",
+      "loggingIn": "登录中...",
+      "noAccount": "还没有账户？",
+      "register": "注册",
+      "invalidCredentials": "邮箱或密码错误",
+      "error": "登录失败，请稍后重试"
+    },
+    "register": {
+      "title": "注册",
+      "name": "姓名",
+      "email": "邮箱",
+      "password": "密码",
+      "confirmPassword": "确认密码",
+      "submit": "注册",
+      "registering": "注册中...",
+      "hasAccount": "已有账户？",
+      "login": "登录",
+      "error": "注册失败，邮箱可能已被使用"
+    }
+  },
+  "dashboard": {
+    "title": "控制台",
+    "welcome": "欢迎来到管理面板。您可以在这里管理您的账户和内容。"
+  },
+  "footer": {
+    "navigation": "导航",
+    "copyright": "版权所有"
+  },
+  "validation": {
+    "emailInvalid": "请输入有效的邮箱地址",
+    "passwordMin": "密码至少 {min} 位",
+    "nameMin": "姓名至少 {min} 个字符",
+    "passwordMismatch": "两次密码输入不一致"
+  }
+}
